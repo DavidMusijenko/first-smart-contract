@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# My very first Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+I managed to deploy it to Goerli but didn't have time to test it in my app
 
-Try running some of the following tasks:
+## What is it for?
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+It adds a minting functionality to my Twitter-clone.
+The users are able to mint avatars into NFTs.
